@@ -1,0 +1,14 @@
+// Settings in here override those in "Default/Preferences.sublime-settings",
+// and are overridden in turn by syntax-specific settings.
+{
+	"copy_with_empty_selection": false,
+	"enable_telemetry": false,
+	"hardware_acceleration": "opengl",
+	"highlight_line": true,
+	"hot_exit": "disabled",
+	"open_files_in_new_window": false,
+	"trim_automatic_white_space": true,
+	"scroll_past_end": false,
+	"show_encoding": true,
+	"trim_automatic_white_space": true
+}

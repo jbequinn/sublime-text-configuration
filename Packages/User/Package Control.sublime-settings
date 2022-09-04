@@ -1,0 +1,13 @@
+{
+	"bootstrapped": true,
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"CUE Sheet",
+		"EditorConfig",
+		"Git",
+		"Package Control",
+		"Pretty JSON",
+		"sql-formatter",
+	],
+}

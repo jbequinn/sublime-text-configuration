@@ -1,0 +1,11 @@
+# ignore everything
+*
+
+# except preferences
+!.gitignore
+!README.md
+!Preferences.sublime-settings
+!Package Control.sublime-settings
+
+# even if they are in subdirectories
+!*/
